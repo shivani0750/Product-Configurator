@@ -27,7 +27,7 @@ A web based tool 3D product configurator that lets users customize colors, textu
 | Deployment   | Vercel or Github pages|
 
 ## 📸 Glimpse of Project:
-![Pic-1](images/pic1.png)<br><br>
+![Pic-1](images/Pic1.png)<br><br>
 ![Pic-2](images/pic2.png)
 
 ## 🔮 Future Vision
