@@ -42,7 +42,7 @@ const ConfigUI = () => {
     <>
       <div id="copyright" className="panel">
         <Stack direction="row">
-          <CopyrightIcon /> <Typography>2025 Developed by Khushi-Singh</Typography>
+          <CopyrightIcon /> <Typography>2025 Developed by Shivani-Parmar</Typography>
         </Stack>
       </div>
       <div id="autoRotate" className="panel">
