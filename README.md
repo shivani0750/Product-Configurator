@@ -37,7 +37,7 @@ A web based tool 3D product configurator that lets users customize colors, textu
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/Khushi-Singh25/Product-Configurator.git
+git clone https://github.com/shivani0750/Product-Configurator
 cd product-configurator
 npm install
 npm run dev
