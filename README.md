@@ -3,7 +3,7 @@
 A web based tool 3D product configurator that lets users customize colors, textures, and parts with live 3D previews—perfect for e-commerce. Easily customizable to suit any product.
 
 ## 🌐 Live Demo
-[Click here to view](https://product-configurator-wine.vercel.app/)
+[Click here to view](https://product-configurator-eta.vercel.app/)
 
 ## 🛠️ Features
 - 3D visualization using Three.js  
